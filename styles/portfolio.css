@@ -203,4 +203,57 @@ nav .menu a button{
 .skill-card p{
     font-size: 12px;
     color: #757575;
+    line-height: 28px;
 }
+
+
+#resume{
+    margin-top: 130px;
+}
+
+#resume .resume-container{
+    width: 67%;
+    max-width: 1140px;
+    margin: 113px auto 0;
+    display: flex;
+    gap: 24px;
+}
+
+.resume-container hr{
+    margin: 30px 0;
+}
+
+.resume-container .section-title{
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: #474747;
+}
+
+.resume-container .resume-card .card-title{
+    font-size: 20px;
+    color: #474747;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.resume-card{
+    max-width: 511px;
+    margin-right: 47px;
+}
+
+.resume-card .card-info{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #474747;
+
+}
+
+.resume-card .card-text{
+    font-size: 16px;
+    line-height: 28px;
+    color: #474747;
+
+
+}
+
